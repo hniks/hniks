@@ -41,6 +41,7 @@ Welcome to my GitHub profile page.
 ![](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/-Qt5-41CD52?style=flat-square&logo=qt&logoColor=white)
 ![](https://img.shields.io/badge/-Trello-0079BF??style=flat-square&logo=trello&logoColor=white)
+![](https://img.shields.io/badge/-Mocha-8D6748??style=flat-square&logo=mocha&logoColor=white)
 
 **These are my favorites when deploying:**   
 ![](https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
