@@ -18,46 +18,46 @@ Welcome to my GitHub profile page.
 
 ## 🛠 Technologies I use
 
-![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
-![](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-![](https://img.shields.io/badge/-Material%20UI-0081CB?style=flat-square&logo=material-ui&logoColor=white)
-![](https://img.shields.io/badge/-JavaScript-B8AC4D?style=flat-square&logo=javascript&logoColor=white)
-![](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/-React-49A8BF?style=flat-square&logo=react&logoColor=white)
-![](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![](https://img.shields.io/badge/-Webpack-0000FF?style=flat-square&logo=webpack&logoColor=white)
-![](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white)
-![](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![](https://img.shields.io/badge/-AdonisJS-220052?style=flat-square&logo=adonisjs&logoColor=white)
-![](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![](https://img.shields.io/badge/-Qt5-41CD52?style=flat-square&logo=qt&logoColor=white)
-![](https://img.shields.io/badge/-Trello-0079BF??style=flat-square&logo=trello&logoColor=white)
-![](https://img.shields.io/badge/-Mocha-8D6748??style=flat-square&logo=mocha&logoColor=white)
+### Engineering
+![](https://img.shields.io/badge/-HTML5/EJS-E34F26?style=flat-square)
+![](https://img.shields.io/badge/-CSS3/SASS-1572B6?style=flat-square)
+![](https://img.shields.io/badge/-JavaScript/TypeScript-B8AC4D?style=flat-square)
+![](https://img.shields.io/badge/-React-49A8BF?style=flat-square)
+![](https://img.shields.io/badge/-Redux/Saga%20Saga-764ABC)
+![](https://img.shields.io/badge/-Bootstrap/Material%20UI-563D7C?style=flat-square)
+![](https://img.shields.io/badge/-Styled%20Components-DB7093?style=flat-square)
+![](https://img.shields.io/badge/-Node.js-339933?style=flat-square)
+![](https://img.shields.io/badge/-Next.js/Gatsby.js-000000?style=flat-square)
+![](https://img.shields.io/badge/-Express.js-E0234E?style=flat-square)
+![](https://img.shields.io/badge/-Adonis.js/NestJS-E0234E?style=flat-square)
+![](https://img.shields.io/badge/-MySQL/SQLite-4479A1?style=flat-square)
+![](https://img.shields.io/badge/-Webpack-0000FF?style=flat-square)
+![](https://img.shields.io/badge/-Mocha/Chai/Jest-8D6748?style=flat-square)
 
-**These are my favorites when deploying:**   
-![](https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
-![](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
-![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=white)
-![](https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=apache&logoColor=white)
-![](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+### Operations
+![](https://img.shields.io/badge/-Nginx-269539?style=flat-square)
+![](https://img.shields.io/badge/-Heroku-430098?style=flat-square)
+![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square)
+![](https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat-square)
+![](https://img.shields.io/badge/-Google%20Cloud%20Platform-5849BE?style=flat-square)
 
-**Things I'm currently learning:**   
-![](https://img.shields.io/badge/-Gatsby-663399?style=flat-square&logo=gatsby&logoColor=white)
-![](https://img.shields.io/badge/-Apollo/GraphQL-311C87?style=flat-square&logo=apollo%20graphql&logoColor=white)
-![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![](https://img.shields.io/badge/-Tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+### Design
+![](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square)
+![](https://img.shields.io/badge/-Photoshop-F24E1E?style=flat-square)
+![](https://img.shields.io/badge/-Basic%20Video%20Editing-F24E1E?style=flat-square)
+
+### Other
+![](https://img.shields.io/badge/-Git-F05032?style=flat-square)
+![](https://img.shields.io/badge/-C++-00599C?style=flat-square)
+![](https://img.shields.io/badge/-Qt5-41CD52?style=flat-square)
+![](https://img.shields.io/badge/-Basic%20R&S%20with%20Cisco%20devices-0079BF??style=flat-square)
+
+### Currently learning
+![](https://img.shields.io/badge/-Apollo/GraphQL-311C87?style=flat-square)
+![](https://img.shields.io/badge/-Python-3776AB?style=flat-square)
+![](https://img.shields.io/badge/-Django-092E20?style=flat-square)
+![](https://img.shields.io/badge/-Flask-000000?style=flat-square)
+![](https://img.shields.io/badge/-Enzyme-FF6F00?style=flat-square)
 
 <hr/>
 
