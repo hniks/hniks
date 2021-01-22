@@ -23,7 +23,7 @@ Welcome to my GitHub profile page.
 ![](https://img.shields.io/badge/-CSS3/SASS-1572B6?style=flat-square)
 ![](https://img.shields.io/badge/-JavaScript/TypeScript-B8AC4D?style=flat-square)
 ![](https://img.shields.io/badge/-React-49A8BF?style=flat-square)
-![](https://img.shields.io/badge/-Redux/Saga%20Saga-764ABC)
+![](https://img.shields.io/badge/-Redux/Saga%20Saga-764ABC?style=flat-square)
 ![](https://img.shields.io/badge/-Bootstrap/Material%20UI-563D7C?style=flat-square)
 ![](https://img.shields.io/badge/-Styled%20Components-DB7093?style=flat-square)
 ![](https://img.shields.io/badge/-Node.js-339933?style=flat-square)
@@ -43,14 +43,14 @@ Welcome to my GitHub profile page.
 
 ### Design
 ![](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square)
-![](https://img.shields.io/badge/-Photoshop-F24E1E?style=flat-square)
-![](https://img.shields.io/badge/-Basic%20Video%20Editing-F24E1E?style=flat-square)
+![](https://img.shields.io/badge/-Photoshop-311C87?style=flat-square)
+![](https://img.shields.io/badge/-Basic%20Video%20Editing-FF6F00?style=flat-square)
 
 ### Other
 ![](https://img.shields.io/badge/-Git-F05032?style=flat-square)
 ![](https://img.shields.io/badge/-C++-00599C?style=flat-square)
 ![](https://img.shields.io/badge/-Qt5-41CD52?style=flat-square)
-![](https://img.shields.io/badge/-Basic%20R&S%20with%20Cisco%20devices-0079BF??style=flat-square)
+![](https://img.shields.io/badge/-Basic%20R&S%20with%20Cisco%20devices-0079BF?style=flat-square)
 
 ### Currently learning
 ![](https://img.shields.io/badge/-Apollo/GraphQL-311C87?style=flat-square)
