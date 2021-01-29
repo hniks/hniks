@@ -19,45 +19,45 @@ Welcome to my GitHub profile page.
 ## 🛠 Technologies I use
 
 ### Engineering
-![](https://img.shields.io/badge/-HTML5/EJS-E34F26?style=flat-square)
-![](https://img.shields.io/badge/-CSS3/SASS-1572B6?style=flat-square)
-![](https://img.shields.io/badge/-JavaScript/TypeScript-B8AC4D?style=flat-square)
-![](https://img.shields.io/badge/-React-49A8BF?style=flat-square)
-![](https://img.shields.io/badge/-Redux/Saga%20Saga-764ABC?style=flat-square)
+![](https://img.shields.io/badge/-HTML5/EJS-952F13?style=flat-square)
+![](https://img.shields.io/badge/-CSS3/SASS-0F4B76?style=flat-square)
+![](https://img.shields.io/badge/-JavaScript/TypeScript-544E21?style=flat-square)
+![](https://img.shields.io/badge/-React-245966?style=flat-square)
+![](https://img.shields.io/badge/-Redux/Saga%20Saga-643DA4?style=flat-square)
 ![](https://img.shields.io/badge/-Bootstrap/Material%20UI-563D7C?style=flat-square)
-![](https://img.shields.io/badge/-Styled%20Components-DB7093?style=flat-square)
-![](https://img.shields.io/badge/-Node.js-339933?style=flat-square)
-![](https://img.shields.io/badge/-Next.js/Gatsby.js-000000?style=flat-square)
-![](https://img.shields.io/badge/-Express.js-E0234E?style=flat-square)
-![](https://img.shields.io/badge/-Adonis.js/NestJS-E0234E?style=flat-square)
-![](https://img.shields.io/badge/-MySQL/SQLite-4479A1?style=flat-square)
+![](https://img.shields.io/badge/-Styled%20Components-8B2345?style=flat-square)
+![](https://img.shields.io/badge/-Node.js-1F5D1F?style=flat-square)
+![](https://img.shields.io/badge/-Next.js/Gatsby.js-333333?style=flat-square)
+![](https://img.shields.io/badge/-Express.js-1B0308?style=flat-square)
+![](https://img.shields.io/badge/-Adonis.js/NestJS-430A16?style=flat-square)
+![](https://img.shields.io/badge/-MySQL/SQLite-2F536F?style=flat-square)
 ![](https://img.shields.io/badge/-Webpack-0000FF?style=flat-square)
-![](https://img.shields.io/badge/-Mocha/Chai/Jest-8D6748?style=flat-square)
+![](https://img.shields.io/badge/-Mocha/Chai/Jest-514A2A?style=flat-square)
 
 ### Operations
-![](https://img.shields.io/badge/-Nginx-269539?style=flat-square)
+![](https://img.shields.io/badge/-Nginx-103BBB?style=flat-square)
 ![](https://img.shields.io/badge/-Heroku-430098?style=flat-square)
-![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square)
-![](https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat-square)
-![](https://img.shields.io/badge/-Google%20Cloud%20Platform-5849BE?style=flat-square)
+![](https://img.shields.io/badge/-Docker-0A5085?style=flat-square)
+![](https://img.shields.io/badge/-DigitalOcean-0052A3?style=flat-square)
+![](https://img.shields.io/badge/-Google%20Cloud%20Platform-4B3DA9?style=flat-square)
 
 ### Design
-![](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square)
-![](https://img.shields.io/badge/-Photoshop-311C87?style=flat-square)
-![](https://img.shields.io/badge/-Basic%20Video%20Editing-FF6F00?style=flat-square)
+![](https://img.shields.io/badge/-Figma-972907?style=flat-square)
+![](https://img.shields.io/badge/-Photoshop-010A90?style=flat-square)
+![](https://img.shields.io/badge/-Basic%20Video%20Editing-2F231E?style=flat-square)
 
 ### Other
-![](https://img.shields.io/badge/-Git-F05032?style=flat-square)
+![](https://img.shields.io/badge/-Git-8A1D0A?style=flat-square)
 ![](https://img.shields.io/badge/-C++-00599C?style=flat-square)
-![](https://img.shields.io/badge/-Qt5-41CD52?style=flat-square)
-![](https://img.shields.io/badge/-Basic%20R&S%20with%20Cisco%20devices-0079BF?style=flat-square)
+![](https://img.shields.io/badge/-Qt5-144D1B?style=flat-square)
+![](https://img.shields.io/badge/-Basic%20R&S%20with%20Cisco%20devices-004770?style=flat-square)
 
 ### Currently learning
 ![](https://img.shields.io/badge/-Apollo/GraphQL-311C87?style=flat-square)
-![](https://img.shields.io/badge/-Python-3776AB?style=flat-square)
+![](https://img.shields.io/badge/-Python-214A69?style=flat-square)
 ![](https://img.shields.io/badge/-Django-092E20?style=flat-square)
-![](https://img.shields.io/badge/-Flask-000000?style=flat-square)
-![](https://img.shields.io/badge/-Enzyme-FF6F00?style=flat-square)
+![](https://img.shields.io/badge/-Flask-555555?style=flat-square)
+![](https://img.shields.io/badge/-Enzyme-5F5180?style=flat-square)
 
 <hr/>
 
