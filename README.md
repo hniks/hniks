@@ -32,7 +32,7 @@ Welcome to my GitHub profile page.
 ![](https://img.shields.io/badge/-Adonis.js/NestJS-430A16?style=flat-square)
 ![](https://img.shields.io/badge/-MySQL/SQLite-2F536F?style=flat-square)
 ![](https://img.shields.io/badge/-Webpack-0000FF?style=flat-square)
-![](https://img.shields.io/badge/-Mocha/Chai/Jest-514A2A?style=flat-square)
+![](https://img.shields.io/badge/-Mocha/Chai/Jest/Enzyme-514A2A?style=flat-square)
 
 ### Operations
 ![](https://img.shields.io/badge/-Nginx-103BBB?style=flat-square)
@@ -57,7 +57,6 @@ Welcome to my GitHub profile page.
 ![](https://img.shields.io/badge/-Python-214A69?style=flat-square)
 ![](https://img.shields.io/badge/-Django-092E20?style=flat-square)
 ![](https://img.shields.io/badge/-Flask-555555?style=flat-square)
-![](https://img.shields.io/badge/-Enzyme-5F5180?style=flat-square)
 
 <hr/>
 
