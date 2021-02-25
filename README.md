@@ -23,7 +23,7 @@ Welcome to my GitHub profile page.
 ![](https://img.shields.io/badge/-CSS3/SASS-0F4B76?style=flat-square)
 ![](https://img.shields.io/badge/-JavaScript/TypeScript-544E21?style=flat-square)
 ![](https://img.shields.io/badge/-React-245966?style=flat-square)
-![](https://img.shields.io/badge/-Redux/Saga%20Saga-643DA4?style=flat-square)
+![](https://img.shields.io/badge/-Redux/Redux%20Saga-643DA4?style=flat-square)
 ![](https://img.shields.io/badge/-Bootstrap/Material%20UI-563D7C?style=flat-square)
 ![](https://img.shields.io/badge/-Styled%20Components-8B2345?style=flat-square)
 ![](https://img.shields.io/badge/-Node.js-1F5D1F?style=flat-square)
